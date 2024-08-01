@@ -10,6 +10,7 @@ WanderLust is a web application built with the MEN stack (MongoDB, Express.js, N
 - **Interactive Maps:** View the location of listings on a map using Leaflet.
 
 ## Technologies Used
+- **Architecture:** MVC (Model-View-Controller)
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB Atlas
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript

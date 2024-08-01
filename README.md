@@ -19,7 +19,7 @@ WanderLust is a web application built with the MEN stack (MongoDB, Express.js, N
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wanderlust.git
+   git clone https://github.com/S2hubham/wanderlust.git
    
 2. Navigate to the project directory:
    cd wanderlust
